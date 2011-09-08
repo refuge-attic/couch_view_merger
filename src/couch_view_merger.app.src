@@ -1,0 +1,8 @@
+%% -*- mode:erlang;tab-width:4;erlang-indent-level:4;indent-tabs-mode:nil -*-
+{application, couch_view_merger,
+ [
+  {description, "merge results of couchdb views"},
+  {vsn, "0.1"}
+]}.
+
+
